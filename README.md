@@ -47,7 +47,7 @@ This project analyzes historical (2000-2022) and projected future (2023-2050) tr
 *   The Asia Pacific region, driven by China and India, shows significant projected growth in natural gas consumption through 2050.
 *   North America (led by the US) and CIS (led by Russia) remain dominant producers, with varying future outlooks.
 *   The Middle East is projected to see strong growth in both production and consumption.
-*   Developed economies show more modest growth or even declines in consumption in later projection years, particularly in "Net Zero" type scenarios (if analyzed).
+
   
 
 ## Dashboard Preview
