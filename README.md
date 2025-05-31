@@ -51,7 +51,6 @@ This project analyzes historical (2000-2022) and projected future (2023-2050) tr
 *   
 
 ## Dashboard Preview
-*(If you have screenshots of your Power BI dashboard, embed them here. GitHub Markdown for images:)*
-<!-- ![Dashboard Overview](path/to/your/screenshot1.png) -->
-<!-- ![Trend Analysis](path/to/your/screenshot2.png) -->
+![Dashboard Overview - Main Layout](dashboard-overview.png)
+
 
