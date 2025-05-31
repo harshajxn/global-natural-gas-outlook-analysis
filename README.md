@@ -29,7 +29,7 @@ This project analyzes historical (2000-2022) and projected future (2023-2050) tr
     *   Pandas, Matplotlib, Seaborn, openpyxl (`pip install pandas matplotlib seaborn openpyxl`)
     *   Microsoft Power BI Desktop
 
-2.  **Python Script (`global_gas_outlook_analysis.ipynb` or `.py`):**
+2.  **Python Script (`global_gas_outlook_analysis.ipynb`):**
     *   Ensure the `bp-energy-outlook-2024-summary-tables.xlsx` file is available.
     *   Update the `DATA_FILE_PATH` variable in the script to point to the correct location of the Excel file if it's not in the same directory.
     *   Run the Python script. This will process the data and generate two CSV files:
